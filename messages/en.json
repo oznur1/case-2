@@ -1,0 +1,20 @@
+{
+  "homepage": {
+    "title": "Discover the best products",
+    "subtitle": "Shop electronics, fashion and more",
+    "shopNow": "Shop now",
+    "browseCategories": "Browse categories",
+    "featuredProducts": "Featured products",
+    "featuredSubtitle": "Hand-picked items just for you",
+    "viewAllProducts": "View all products",
+    "shopByCategory": "Shop by category",
+    "categorySubtitle": "Find what you need fast"
+  },
+  "categories": {
+    "title": "Categories",
+    "subtitle": "Explore product categories",
+    "viewAllProducts": "View all products"
+  }
+}
+
+
